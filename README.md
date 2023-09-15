@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jimijim20
-- 👀 I’m interested in Project Management, Collaboration, Exchanged Idea.
+- 👀 I’m interested in Project Management, Collaboration, Exchange Idea.
 - 🌱 I’m currently learning C++, Phyton, HTML, CSS, JavaScript, Node.
 - 💞️ I’m looking to collaborate on any project, especially Arduino.
 - 📫 How to reach me you can direct to my inbox
